@@ -1,4 +1,4 @@
-# auto-green
+# auto-awesome
 
 [![Build Status](https://github.com/xj75q/auto/workflows/ci/badge.svg?branch=master)](https://github.com/xj75q/auto/actions)
 
