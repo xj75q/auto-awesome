@@ -20,5 +20,5 @@ jobs:
           git config --local user.name "xj75q"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          git commit --allow-empty -m "自动点绿"
+          git commit --allow-empty -m "日拱一卒，功不唐捐"
           git push
